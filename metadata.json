@@ -1,0 +1,5 @@
+{
+  "name": "ChoreChampion",
+  "description": "A household chore management application that gamifies tasks with rewards for the whole family.",
+  "requestFramePermissions": []
+}
